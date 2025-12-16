@@ -23,10 +23,10 @@ let b = "Hello";
 let c = true;
 let d = {name: "Backend"};
 
-console.log("Variable a =", a, "-> Type:", typeof a);         // number
-console.log("Variable b =", b, "-> Type:", typeof b);         // string
-console.log("Variable c =", c, "-> Type:", typeof c);         // boolean
-console.log("Variable d =", d, "-> Type:", typeof d);         // object
+console.log("Variable a =", a, "-> Type:", typeof a);         
+console.log("Variable b =", b, "-> Type:", typeof b);         
+console.log("Variable c =", c, "-> Type:", typeof c);         
+console.log("Variable d =", d, "-> Type:", typeof d);         
 console.log("===============================");
 
 //Problem 3

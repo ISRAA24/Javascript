@@ -112,20 +112,20 @@ z = 20; // Error
 JavaScript automatically converts types when needed:
 
 ```javascript
-"5" + 2    // "52" (number to string)
-"5" - 2    // 3 (string to number)
-true + 1   // 2 (boolean to number)
+"5" + 2    
+"5" - 2    
+true + 1   
 ```
 
 ### Explicit Conversion
 Manual type conversion:
 
 ```javascript
-Number("123")   // 123
-String(123)     // "123"
-Boolean(1)      // true
-parseInt("123") // 123
-parseFloat("12.34") // 12.34
+Number("123")   
+String(123)     
+Boolean(1)      
+parseInt("123") 
+parseFloat("12.34") 
 ```
 
 ---
